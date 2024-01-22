@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ozcanpolat" alt="ozcanpolat" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ozcaanpolat" target="blank"><img src="https://img.shields.io/twitter/follow/ozcaanpolat?logo=twitter&style=for-the-badge" alt="ozcaanpolat" /></a> </p>
-
 - 🌱 I’m currently learning **Java, Microservices, Design patterns and distributed systems.**
 
 - 📫 How to reach me **ozcanp132@gmail.com**
