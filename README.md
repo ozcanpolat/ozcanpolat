@@ -19,5 +19,3 @@ Through my internship experiences at five different companies and the project re
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
 </p>
 
-## GitHub Stats
-
