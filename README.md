@@ -21,9 +21,3 @@ Through my internship experiences at five different companies and the project re
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=ozcanpolat&show_icons=true&count_private=true&theme=default" alt="GitHub İstatistikleri" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozcanpolat&layout=compact&theme=default" alt="En Çok Kullanılan Diller" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ozcanpolat&theme=default" alt="GitHub Streak" />
-
